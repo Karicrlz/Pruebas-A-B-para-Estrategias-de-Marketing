@@ -1,2 +1,3 @@
-# Pruebas-A-B-para-Estrategias-de-Marketing
-Como analista en una gran tienda online, colaboré estrechamente con el departamento de marketing para identificar y explorar estrategias que pudieran aumentar nuestros ingresos. Juntos, recopilamos una lista de hipótesis que, según creemos, podrían tener un impacto significativo en las ventas.
+# 📊🧮Pruebas-A-B-para-Estrategias-de-Marketing 📈
+Como analista en una gran tienda online, colaboré estrechamente con el departamento de marketing para identificar y explorar estrategias que pudieran aumentar nuestros ingresos. Se recopilo una lista de hipótesis que, según, podrían tener un impacto significativo en las ventas.
+Mi tarea consistió en priorizar estas hipótesis, diseñar y ejecutar un test A/B para evaluar su efectividad. Después de implementar los tests, analicé los resultados para determinar qué enfoques fueron más exitosos. Este proceso permitió identificar las estrategias más efectivas y proporcionar recomendaciones basadas en datos para mejorar las futuras campañas de marketing, optimizando así el rendimiento general de la tienda online.
